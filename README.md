@@ -1,5 +1,5 @@
 # Dell-Vostro5459-Hackintosh
-boot maOS use opencore 0.3.6 
+boot maOS Big Sur use opencore 0.3.6 
 
 Dell Vostro 5459 configuration
 
